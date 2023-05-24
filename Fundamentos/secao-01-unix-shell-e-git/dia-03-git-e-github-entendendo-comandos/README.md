@@ -1,0 +1,1 @@
+Neste dia criamos nosso próprio repositório no github para os exercícios que desenvolveremos na Trybe.
